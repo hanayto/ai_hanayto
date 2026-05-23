@@ -1,0 +1,38 @@
+#AI 全栈工程师
+
+## OPC
+    One Person Company 一人践行公司
+    借助AI的力量，一个人搞定项目，形成了闭环
+
+### boss
+   AI Agent
+   AGI 之路
+   具备OPC 能力的 小boss
+   Claude Code / Codex
+   不用拘泥于之前的工种、不会受累coding 精力
+### 产品经理 PM
+
+
+
+        细化需求，分析用户画像，给程序员派发任务
+        产品原型 Google stitch
+
+### 设计师
+
+    openai image2
+    gemini banana
+    seedance 贵，卡（资源）
+### 前端
+  react/vue web  app
+  flutter/rn mobile APP
+  eletron 桌面端
+
+### 后端
+    api接口
+    数据库
+    后端架构
+### 测试
+    AI测试
+    严谨、规范行动作
+### 运维
+### 运营和销售
